@@ -1,0 +1,2 @@
+# giovanniPokedex.
+Projeto Pokedex
